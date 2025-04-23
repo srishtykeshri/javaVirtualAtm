@@ -1,4 +1,4 @@
-It’s a GUI-based project used with the Swing module to manage ATM transactions of a bank.
+It’s a GUI-based project used with the Swing(Java) module to manage ATM transactions of a bank.
 
 
 
